@@ -3,5 +3,5 @@
   <ServerVersion>Sql2012</ServerVersion>
   <ServerName>SQLCLUSTERMX</ServerName>
   <DatabaseName>TimeIO</DatabaseName>
-  <DatabaseInformation Version="5" />
+  <DatabaseInformation Version="6" />
 </DatabaseSettings>
